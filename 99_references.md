@@ -1,1 +1,0 @@
-http://merry.whitesnow.jp/SEMICMD/SECTION3/section3_1.html - 3. ファイル操作のコマンド１（1/2）
